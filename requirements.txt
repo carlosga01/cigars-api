@@ -2,3 +2,4 @@ Flask
 Gunicorn
 Flask-RESTful
 psycopg2
+Werkzeug
